@@ -3,6 +3,6 @@ Realtime chat app with websockets using Node.js, Express and Socket.io with Vani
 
 Usage--
 npm install
-npx nodemon server.js
+npx nodemon server.js or node server.js
 
 Go to localhost:3000
